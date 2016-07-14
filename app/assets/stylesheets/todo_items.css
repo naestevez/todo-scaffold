@@ -1,0 +1,51 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+* {
+  color: #fff;
+}
+
+h1.white {
+  text-align: center;
+  font-size: 3em;
+}
+
+th {
+  padding: 1em;
+  font-size: 1.5em;
+}
+
+button.btn {
+  color: #fff !important;
+  background-color: #fff;
+}
+
+table.table td.td {
+  color: #fff !important;
+  padding: 1em 0.5em;
+  font-size: 1.5em;
+}
+
+table.table td.td a:hover {
+  color: #fff;
+  background-color: transparent;
+}
+
+div.col-sm-12 button.btn {
+  margin: 0 auto;
+}
+
+div#description p {
+  font-size: 1.5em !important;
+  text-align: center;
+  color: #fff;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.navigation-link {
+  font-size: 1.5em;
+  color: #fff !important;
+  width: 500px;
+}
